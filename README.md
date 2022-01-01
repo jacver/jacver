@@ -1,4 +1,4 @@
-Hello, I'm Jacob Vernau and I am currently taking a Javascript course and learning HTML and CSS. 
+Hello! I am Jacob. I'm currently learning Javascript, HTML, and CSS. 
 
 <!---
 jacver/jacver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
